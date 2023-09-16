@@ -1,0 +1,11 @@
+#root {
+  max-width: 1330px;
+  margin: 0;
+  padding: 0;
+}
+
+.spin {
+  height: 50vh;
+  display: grid;
+  place-items: center;
+}

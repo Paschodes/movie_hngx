@@ -1,0 +1,29 @@
+.footer {
+    width: 480px;
+    font-size: 18px;
+    font-weight: 700;
+    font-style: normal;
+    line-height: normal;
+    font-family: DM Sans;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer_icons {
+    display: flex;
+    gap: 20px;
+}
+
+.footer_divs {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.footer_divs p {
+    color: #111827;
+}
+
+.footer_para {
+    color: #6B7280;
+}
